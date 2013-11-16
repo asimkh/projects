@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery xmlns:media="http://search.yahoo.com/mrss/">
+	<settings>
+		<mediaFolder type="large" media="video">video/</mediaFolder>
+		<mediaFolder type="thumbnail" media="video">video/thumbs/</mediaFolder>
+		<mediaFolder type="large" media="swf">video/</mediaFolder>
+		<mediaFolder type="thumbnail" media="swf">video/thumbs/</mediaFolder>
+		<mediaFolder type="large" media="image">images/</mediaFolder>
+		<mediaFolder type="thumbnail" media="image">images/thumbs/</mediaFolder>
+	</settings>	
+
+<item url="http://Rakbankdirect.ae/wps/portal/amal/information/about-islamic-banking?WT.svl=2" >
+		<media:text>RAKBank</media:text>
+		<media:content url="about_islamic.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="about_islamic.jpg" />
+	</item>
+	
+	<item url="http://Rakbankdirect.ae/wps/portal/amal?WT.ac=Islamic%20Banking&WT.svl=3">
+		<media:text>RAK Bank</media:text>
+		<media:content url="amal.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="amal.jpg" />
+	</item>
+	
+
+<item url="http://Rakbankdirect.ae/wps/portal/amal/accounts?WT.ac=Accounts&WT.svl=6">
+		<media:text>RAK Bank</media:text>
+		<media:content url="accounts.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="accounts.jpg" />
+	</item>
+	<item url="http://Rakbankdirect.ae/wps/portal/amal/cards?WT.ac=Cards&WT.svl=6">
+		<media:text>RAK Bank</media:text>
+		<media:content url="cards.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="cards.jpg" />
+	</item>
+	
+	<item url="http://Rakbankdirect.ae/wps/portal/amal/deposits?WT.ac=Deposits&WT.svl=6">
+		<media:text>RAK Bank</media:text>
+		<media:content url="deposits.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="deposits.jpg" />
+	</item>
+	
+	<item url="http://Rakbankdirect.ae/wps/portal/amal/finance?WT.ac=Finance&WT.svl=6">
+		<media:text>RAK Bank</media:text>
+		<media:content url="finance.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="finance.jpg" />
+	</item>
+
+<item url="http://Rakbankdirect.ae /wps/portal/amal/wealth-management?WT.ac=Wealth%20Management&WT.svl=6">
+		<media:text>RAK Bank</media:text>
+		<media:content url="wealth_management.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="wealth_management.jpg" />
+	</item>
+
+	
+
+<item url"http://Rakbankdirect.ae/wps/portal/amal/savings-retirement?WT.ac=Savings%20and%20Retirement&WT.svl=6">
+		<media:text>RAK Bank</media:text>
+		<media:content url="insurance.jpg" type="image/jpeg" width="505" height="367" />
+		<media:thumbnail url="insurance.jpg" />
+	</item>
+	
+
+
+</gallery>

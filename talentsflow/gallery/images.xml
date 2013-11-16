@@ -1,0 +1,137 @@
+﻿<images>
+	<photo image="gallery/images/101.jpg" colorboxImage="gallery/images/101.jpg" colorboxInfo="Item 01" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Hello!</head><body>Welcome to the new 3D Sphere Gallery</body>]]></photo>
+	
+	<photo image="gallery/images/102.jpg" colorboxImage="gallery/images/102.jpg" colorboxInfo="Item 02" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Configure it using the panel below.</head><body>Then download it for FREE.</body>]]></photo>
+	
+	<photo image="gallery/images/103.jpg" colorboxImage="http://www.youtube.com/embed/N6AfN5EiUIg?wmode=transparent" colorboxInfo="Item 03" colorboxClass="video" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Awesome 3D effect.</head>Works well with a high & low number of photos.<body></body>]]></photo>
+	
+	<photo image="gallery/images/104.jpg" colorboxImage="gallery/images/104.jpg" colorboxInfo="Item 04" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Two types of animation!</head><body>Horizontal and vertical.</body>]]></photo>
+	
+	<photo image="gallery/images/105.jpg" colorboxImage="gallery/images/105.jpg" colorboxInfo="Item 05" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Use this HTML/CSS formatted text.</head><body>You can event insert links<a href="http://flashxml.net/perspective-gallery.html">here</a>..</body>]]></photo>
+		
+	<photo image="gallery/images/106.jpg" colorboxImage="gallery/images/106.jpg" colorboxInfo="Item 06" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>All the assets are skinnable.</head></body>Give customizing them a try!</body>]]></photo>
+	
+	<video media="gallery/video/cars.flv" colorboxImage="gallery/video/cars.jpg" colorboxInfo="Item 07" colorboxClass="image" image="gallery/video/cars.jpg" skin="gallery/assets/skins/videoSkin1.xml" backColor="0x000000" backAlpha="1" autoplay="true">
+	<![CDATA[<head>Also supports video files!</head></body>With custom video player skins.</body>]]></video>
+	
+	<photo image="gallery/images/107.jpg" colorboxImage="gallery/images/107.jpg" colorboxInfo="Item 08" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>You can vary the number of pictures</head><body>that the component displays in any ring of the sphere.</body>]]></photo>
+	
+	<photo image="gallery/images/108.jpg" colorboxImage="gallery/images/108.jpg" colorboxInfo="Item 09" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>2 roll over picture behaviours :</head><body>wind(neat animation) & expand.</body>]]></photo>
+	
+	<photo image="gallery/images/109.jpg" colorboxImage="gallery/images/109.jpg" colorboxInfo="Item 10" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>The sphere spins by default(General>defaultSpeed).</head><body>Set "defaultSpeed" to 0 to stop the animation when there is no interaction with the mouse.</body>]]></photo>
+	
+	<photo image="gallery/images/110.jpg" colorboxImage="gallery/images/110.jpg" colorboxInfo="Item 11" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Put your own images in the images folder.</head><body>And update the images.xml file accordingly.</body>]]></photo>
+	
+	<photo image="gallery/images/111.jpg" colorboxImage="gallery/images/111.jpg" colorboxInfo="Item 12" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Position the text on the images</head><body>either in the top or bottom positions.</body>]]></photo>
+	
+	<photo image="gallery/images/112.jpg" colorboxImage="gallery/images/112.jpg" colorboxInfo="Item 13" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>For best results</head><body>make sure that the total number of photos divides evenly by the "totalInRing" attribute.</body>]]></photo>
+	
+	<photo image="gallery/images/113.jpg" colorboxImage="gallery/images/113.jpg" colorboxInfo="Item 14" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Hello!</head><body>Welcome to the new 3D Sphere Gallery</body>]]></photo>
+	
+	<photo image="gallery/images/114.jpg" colorboxImage="gallery/images/114.jpg" colorboxInfo="Item 15" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Configure it using the panel below.</head><body>Then download it for FREE.</body>]]></photo>
+	
+	<photo image="gallery/images/115.jpg" colorboxImage="gallery/images/115.jpg" colorboxInfo="Item 16" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Awesome 3D effect.</head>Works well with a high & low number of photos.<body></body>]]></photo>
+	
+	<photo image="gallery/images/116.jpg" colorboxImage="gallery/images/117.jpg" colorboxInfo="Item 17" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Two types of animation!</head><body>Horizontal and vertical.</body>]]></photo>
+	
+	<photo image="gallery/images/117.jpg" colorboxImage="gallery/images/116.jpg" colorboxInfo="Item 18" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Use this HTML/CSS formatted text.</head><body>You can event insert links<a href="http://flashxml.net/perspective-gallery.html">here</a>..</body>]]></photo>
+		
+	<photo image="gallery/images/101.jpg" colorboxImage="gallery/images/101.jpg" colorboxInfo="Item 19" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>All the assets are skinnable.</head></body>Give customizing them a try!</body>]]></photo>
+	
+	<video media="gallery/video/cars.flv" colorboxImage="gallery/video/cars.jpg" colorboxInfo="Item 20" colorboxClass="image" image="gallery/video/cars.jpg" skin="gallery/assets/skins/videoSkin1.xml" backColor="0x000000" backAlpha="1" autoplay="true">
+	<![CDATA[<head>Also supports video files!</head></body>With custom video player skins.</body>]]></video>
+	
+	<photo image="gallery/images/102.jpg" colorboxImage="gallery/images/102.jpg" colorboxInfo="Item 21" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>You can vary the number of pictures</head><body>that the component displays in any ring of the sphere.</body>]]></photo>
+	
+	<photo image="gallery/images/103.jpg" colorboxImage="gallery/images/103.jpg" colorboxInfo="Item 22" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>2 roll over picture behaviours :</head><body>wind(neat animation) & expand.</body>]]></photo>
+	
+	<photo image="gallery/images/104.jpg" colorboxImage="gallery/images/104.jpg" colorboxInfo="Item 23" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>The sphere spins by default(General>defaultSpeed).</head><body>Set "defaultSpeed" to 0 to stop the animation when there is no interaction with the mouse.</body>]]></photo>
+	
+	<photo image="gallery/images/105.jpg" colorboxImage="gallery/images/105.jpg" colorboxInfo="Item 24" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Put your own images in the images folder.</head><body>And update the images.xml file accordingly.</body>]]></photo>
+	
+	<photo image="gallery/images/106.jpg" colorboxImage="gallery/images/106.jpg" colorboxInfo="Item 25" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Position the text on the images</head><body>either in the top or bottom positions.</body>]]></photo>
+	
+	<photo image="gallery/images/107.jpg" colorboxImage="gallery/images/107.jpg" colorboxInfo="Item 26" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>For best results</head><body>make sure that the total number of photos divides evenly by the "totalInRing" attribute.</body>]]></photo>
+	
+	<photo image="gallery/images/108.jpg" colorboxImage="gallery/images/108.jpg" colorboxInfo="Item 27" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Hello!</head><body>Welcome to the new 3D Sphere Gallery</body>]]></photo>
+	
+	<photo image="gallery/images/109.jpg" colorboxImage="gallery/images/109.jpg" colorboxInfo="Item 28" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Configure it using the panel below.</head><body>Then download it for FREE.</body>]]></photo>
+	
+	<photo image="gallery/images/110.jpg" colorboxImage="gallery/images/110.jpg" colorboxInfo="Item 29" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Awesome 3D effect.</head>Works well with a high & low number of photos.<body></body>]]></photo>
+	
+	<photo image="gallery/images/111.jpg" colorboxImage="gallery/images/111.jpg" colorboxInfo="Item 30" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Two types of animation!</head><body>Horizontal and vertical.</body>]]></photo>
+	
+	<photo image="gallery/images/112.jpg" colorboxImage="gallery/images/112.jpg" colorboxInfo="Item 31" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Use this HTML/CSS formatted text.</head><body>You can event insert links<a href="http://flashxml.net/perspective-gallery.html">here</a>..</body>]]></photo>
+		
+	<photo image="gallery/images/113.jpg" colorboxImage="gallery/images/113.jpg" colorboxInfo="Item 32" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>All the assets are skinnable.</head></body>Give customizing them a try!</body>]]></photo>
+	
+	<video media="gallery/video/cars.flv" colorboxImage="gallery/video/cars.jpg" colorboxInfo="Item 33" colorboxClass="image" image="gallery/video/cars.jpg" skin="gallery/assets/skins/videoSkin1.xml" backColor="0x000000" backAlpha="1" autoplay="true">
+	<![CDATA[<head>Also supports video files!</head></body>With custom video player skins.</body>]]></video>
+	
+	<photo image="gallery/images/114.jpg" colorboxImage="gallery/images/114.jpg" colorboxInfo="Item 34" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>You can vary the number of pictures</head><body>that the component displays in any ring of the sphere.</body>]]></photo>
+	
+	<photo image="gallery/images/115.jpg" colorboxImage="gallery/images/115.jpg" colorboxInfo="Item 35" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>2 roll over picture behaviours :</head><body>wind(neat animation) & expand.</body>]]></photo>
+	
+	<photo image="gallery/images/116.jpg" colorboxImage="gallery/images/116.jpg" colorboxInfo="Item 36" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>The sphere spins by default(General>defaultSpeed).</head><body>Set "defaultSpeed" to 0 to stop the animation when there is no interaction with the mouse.</body>]]></photo>
+	
+	<photo image="gallery/images/117.jpg" colorboxImage="gallery/images/117.jpg" colorboxInfo="Item 37" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Put your own images in the images folder.</head><body>And update the images.xml file accordingly.</body>]]></photo>
+	
+	<photo image="gallery/images/101.jpg" colorboxImage="gallery/images/101.jpg" colorboxInfo="Item 38" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Position the text on the images</head><body>either in the top or bottom positions.</body>]]></photo>
+	
+	<photo image="gallery/images/102.jpg" colorboxImage="gallery/images/102.jpg" colorboxInfo="Item 39" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>For best results</head><body>make sure that the total number of photos divides evenly by the "totalInRing" attribute.</body>]]></photo>
+	
+	<photo image="gallery/images/103.jpg" colorboxImage="gallery/images/103.jpg" colorboxInfo="Item 40" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Hello!</head><body>Welcome to the new 3D Sphere Gallery</body>]]></photo>
+	
+	<photo image="gallery/images/104.jpg" colorboxImage="gallery/images/104.jpg" colorboxInfo="Item 41" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Configure it using the panel below.</head><body>Then download it for FREE.</body>]]></photo>
+	
+	<photo image="gallery/images/105.jpg" colorboxImage="gallery/images/105.jpg" colorboxInfo="Item 42" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Awesome 3D effect.</head>Works well with a high & low number of photos.<body></body>]]></photo>
+	
+	<photo image="gallery/images/106.jpg" colorboxImage="gallery/images/106.jpg" colorboxInfo="Item 43" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Two types of animation!</head><body>Horizontal and vertical.</body>]]></photo>
+	
+	<photo image="gallery/images/107.jpg" colorboxImage="gallery/images/107.jpg" colorboxInfo="Item 44" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>Use this HTML/CSS formatted text.</head><body>You can event insert links<a href="http://flashxml.net/perspective-gallery.html">here</a>..</body>]]></photo>
+		
+	<photo image="gallery/images/108.jpg" colorboxImage="gallery/images/108.jpg" colorboxInfo="Item 45" colorboxClass="image" url = "http://www.flashxml.net" target="_blank">
+	<![CDATA[<head>All the assets are skinnable.</head></body>Give customizing them a try!</body>]]></photo>	
+
+</images>

@@ -1,0 +1,103 @@
+<settings>
+  <General_Properties>
+    <componentWidth value="800"/>
+    <componentHeight value="500"/>
+    <assets value="gallery/images.xml"/>
+    <preloader value="gallery/assets/preloaders/circlePreloader.swf"/>
+    <showAbout value="true"/>
+    <orientation value="vertical"/>
+    <controlSkin value="gallery/assets/skins/controlsSkin2.xml"/>
+    <closeBtnSkin value="gallery/assets/skins/closeBtn.xml"/>
+    <totalInRing value="9"/>
+    <radius value="650"/>
+    <cameraZoom value="400"/>
+    <defaultSpeed value="20"/>
+    <openAnimation value="side"/>
+	<useColorbox value="false"/>
+  </General_Properties>
+  <Colorbox_Properties>
+    <transition value="elastic"/>
+    <innerWidth value="500"/>
+    <innerHeight value="500"/>
+    <slideshow value="false"/>
+    <slideshowSpeed value="500"/>
+  </Colorbox_Properties>
+  <Item_Properties>
+    <planWidth value="200"/>
+    <planHeight value="150"/>
+    <expandWidth value="600"/>
+    <expandHeight value="400"/>
+    <windEffect value="true"/>
+    <overScale value="true"/>
+  </Item_Properties>
+  <Border_Properties>
+    <useBorder value="true"/>
+    <width value="3"/>
+    <color value="0xac004d"/>
+    <alpha value="1"/>
+  </Border_Properties>
+  <Text_Properties>
+    <styleSheet value="gallery/assets/css/styleSheet.css"/>
+    <position value="bottom"/>
+    <backColor value="0xffffff"/>
+    <backAlpha value="1"/>
+    <borderWidth value="2"/>
+    <borderColor value="0xac004d"/>
+    <borderAlpha value="1"/>
+    <cornerRadius value="5"/>
+    <paddingLeft value="17"/>
+    <paddingRight value="50"/>
+    <paddingTop value="15"/>
+    <paddingBottom value="15"/>
+    <embedFonts value="false"/>
+  </Text_Properties>
+  <Tooltip_Properties>
+    <position value="followMouse"/>
+    <delay value="0.3"/>
+    <distance value="3"/>
+    <padding value="12"/>
+    <cornerRadius value="0"/>
+    <appearance value="center"/>
+    <easingFunction value="Back"/>
+    <easingDuration value="0.3"/>
+    <fontFace value="verdana"/>
+    <fontSize value="14"/>
+    <fontColor value="0xFFFFFF"/>
+    <backColor value="0xac004d"/>
+    <backColor2 value="0xac004d"/>
+    <backAlpha value=".5"/>
+    <borderColor value="ac004d"/>
+    <borderThickness value="2"/>
+    <useArrow value="true"/>
+    <arrowPos value="center"/>
+    <arrowSize value="5"/>
+    <embedFonts value="false"/>
+  </Tooltip_Properties>
+  <Background_Properties>
+    <fillType value="image"/>
+    <backgroundImage value=""/>
+    <backgroundFitting value="repeat"/>
+    <backgroundColor1 value=""/>
+    <backgroundColor2 value=""/>
+    <backgroundAlpha value="1"/>
+    <bgCornerRadius value="0"/>
+    <gradientRotation value="0"/>
+    <gradientRatio value="0"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+    <useShade value="false"/>
+    <shadeColor value="0x000000"/>
+    <shadeAlpha value="1"/>
+    <shadeRatio value="40"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Background_Properties>
+  <Shade_Properties>
+    <useShade value="false"/>
+    <shadeColor value="0xff0000"/>
+    <shadeAlpha value="1"/>
+    <shadeRatio value="40"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Shade_Properties>
+</settings>

@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+html, body { height:100%; background-color: #ffffff;}
+body { margin:0; padding:0; overflow:hidden; }
+#flashContent { width:100%; height:100%; z-index:0; position:relative; text-align:center; }
+#gallery-images{width:100%; height:520px; /*background-color:#000;*/ opacity:1; z-index:2; position:absolute; text-align:center; display:none;}
+#tf {}
+

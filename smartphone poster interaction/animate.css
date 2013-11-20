@@ -1,0 +1,218 @@
+@charset "utf-8";
+body{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	padding:0px;
+    		margin:0px;
+    		width:100%;
+    		height:100%;
+}
+
+.poster-background2{
+	/*	display: none;
+	left: 1343px;
+	position: absolute;
+	overflow: hidden;
+	height: 100%;
+	width: 1343px;
+	top: 0px;
+	z-index: 0;
+	opacity: 1;
+	-webkit-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	transition: all 0s ease;
+	-webkit-transition: all 0s ease;*/
+	
+	/*webkit-backface-visibility: hidden;*/
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 5;
+	max-width: none;
+	/*	-webkit-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);*/
+	 /*height: 881.067032967033px;*/
+	height: 200%;
+	/*width: 1343px;*/
+	width: 100%;
+	background-image: url(images/poster2.jpg);
+	background-repeat: no-repeat;
+	
+}
+.poster-background {
+/*	background-image:url(images/poster1.jpg);
+	background-repeat:no-repeat;*/
+	height:640px;
+	 width:1024px;
+	border:0px;
+	z-index:10;
+	position:absolute;
+	opacity:0.5
+
+}
+#wrapp{
+	text-align:center;
+	/*border:#999 solid 2px;*/
+	 margin:0 auto;
+	/* width:1024px;
+	 height:640px;*/
+height:100%; width:100%;
+	 /*display:none;*/
+	/* left: 0px; top: -223px;*/
+	/* background-image:url(images/poster2.jpg);*/
+	 /*background-color:#0CF;*/
+	 z-index:-1;
+	 position:absolute;
+}
+.btn{
+	background-color:#999;
+	opacity:0;
+    z-index:11;
+	position:relative;
+	width:400px;
+	height:110px;
+	top:690px;
+	left:142px;
+	
+}
+.btn1{
+	width:85px;
+	height:100px;
+	background-color:#06C;
+	float:left;
+	cursor:pointer;
+
+}
+
+.btn2{
+	width:80px;
+	height:100px;
+	background-color:#0C0;
+	float:left;
+	margin-left:40px;
+	cursor:pointer;
+	
+
+}
+
+
+
+.btn3{
+	width:85px;
+	height:100px;
+	background-color:#9F0;
+	float:left;
+	margin-left:40px;
+	cursor:pointer;
+
+}
+
+.btn4{
+	width:40px;
+	height:40px;
+	background-color:#0C0;
+	float:left;
+	left:20px;
+	cursor:pointer;
+	position:relative;
+	z-index:2;
+	top:130px;
+	
+
+}
+#mb{
+	width:400px;
+	height:640px;
+	background-image:url(images/samsung.png);
+	background-repeat:no-repeat;
+	z-index:13;
+	position:relative;
+	border:0px;
+	top:120px;
+	left:655px;
+	display:none;
+	background-size:100%;
+
+}
+#sc1{
+	background-image:url(images/qr-1.jpg);
+	background-repeat:no-repeat;
+	/*width:305px;*/
+	height:496px;
+	position:absolute;
+	top:65px; left:46px;
+	background-size:100%;
+	z-index:20;
+}
+#sc2{
+	background-image:url(images/qr-2.jpg);
+	background-repeat:no-repeat;
+	width:305px;
+	height:496px;
+	position:absolute;
+	top:65px; left:46px;
+	display:none;
+	z-index:21;
+	background-size:100%;
+}
+#sc3{
+	background-image:url(images/qr-3.jpg);
+	background-repeat:no-repeat;
+	width:305px;
+	height:496px;
+	position:absolute;
+	top:65px; left:46px;
+		display:none;
+		background-size:100%;
+		z-index:22;
+}
+#sc4{
+	background-image:url(images/qr-2.jpg);
+	background-repeat:no-repeat;
+	width:305px;
+	height:496px;
+	position:absolute;
+	top:65px; left:46px;
+	display:none;
+	z-index:21;
+	background-size:100%;
+}
+#sc5{
+	background-image:url(images/qr-2.jpg);
+	background-repeat:no-repeat;
+	width:305px;
+	height:496px;
+	position:absolute;
+	top:65px; left:46px;
+	display:none;
+	z-index:21;
+	background-size:100%;
+}
+#cls{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px; font-weight:500;
+	height:28px;
+	width:90px;
+	border:1px;
+	z-index:30;
+	position:relative;
+	top: 50px;
+	left: 1050px;
+	background-color:#505050;
+	cursor:pointer;
+	color:#FFF;
+	display:none; padding-top:2px;
+
+}
+
+/*
+#jpreOverlay, #qLoverlay { 
+   background-color:#000;
+   width:100%;     height:100%;
+   position:fixed;     top:0;     left:0;     z-index:11;
+   }
+   
+#jpreSlide {font-size:22px;font-weight:700;color:#FFF; text-align:center; width:100%; }
+#jpreLoader, #qLloader {     width:448px;     height:69px;     background:url('../images/loader_logo.jpg') 0 100% no-repeat;     position:fixed;     top:43%;     left:50%;     margin-left:0px;     margin-top: -300px; } #jpreBar, #qLbar {     width:448px;     height:0;     position:absolute;     bottom:0;     background:url('../images/loader_logo.jpg') 100px 100% no-repeat; } #jprePercentage, #qLpercentage {     color:#888;     text-align:center;     position:absolute;     height:30px;     width:100px;     margin-top: 40px; }*/
